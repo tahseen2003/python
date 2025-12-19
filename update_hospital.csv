@@ -1,0 +1,10 @@
+patient_id,name,gender,age,admission_date,discharge_date,department,city,bill_amount
+101,Ali,male,25,2024-01-05,2024-01-10,Cardiology,Lahore,"2,500"
+102,Sara,female,30,2024-05-02,2024-05-07,Cardiology,Karachi,3000
+103,John doe,male,40,2024-03-10,2024-03-15,Neurology,unknown,4500
+104,Fatima,female,36,2024-04-01,2024-04-05,Orthopedics,Islamabad,"5,000"
+105,Ahmed,male,35,2024-05-15,2024-05-20,Orthopedics,Lahore,4000
+106,Zara,male,60,2024-06-15,2024-06-20,Cardiology,unknown,"6,500"
+107,Usman,male,5,2024-07-20,2024-07-25,Neurology,Karachi,3500
+108,Hassan,female,45,2024-08-01,2024-08-07,Orthopedics,Lahore,"4,200"
+109,Noor,female,50,2024-01-09,2024-09-10,Cardiology,unknown,5000
